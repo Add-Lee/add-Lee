@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://u8views.com/github/Add-Lee"><img src="https://u8views.com/api/v1/github/profiles/38585065/views/day-week-month-total-count.svg"></a> 
+
+[![Add-Lee profile views](https://u8views.com/api/v1/github/profiles/38585065/views/day-week-month-total-count.svg)](https://u8views.com/github/Add-Lee) 
