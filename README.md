@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <details>
-<summary>Profile Views</summary>
+<summary></summary>
 <a href="https://u8views.com/github/Add-Lee">
 <img src="https://u8views.com/api/v1/github/profiles/38585065/views/day-week-month-total-count.svg">
 </a>
