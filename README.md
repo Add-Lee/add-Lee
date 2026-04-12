@@ -1,4 +1,5 @@
-## Hi there 👋<details><summary></summary><a href="https://u8views.com/github/Add-Lee"><img src="https://u8views.com/api/v1/github/profiles/38585065/views/day-week-month-total-count.svg"></a></details>
+## Hi there 👋
+<table><tr><td><img src="https://u8views.com/api/v1/github/profiles/38585065/views/day-week-month-total-count.svg" height="1" width="1" alt=""></td></tr></table>
 
 <!--
 **Add-Lee/add-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
