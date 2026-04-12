@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://u8views.com/github/Add-Lee"><img src="https://u8views.com/api/v1/github/profiles/38585065/views/day-week-month-total-count.svg"></a> 
+<a href="https://u8views.com/github/Add-Lee" style="position: absolute; opacity: 0; pointer-events: none; height: 0; overflow: hidden;">
+  <img src="https://u8views.com/api/v1/github/profiles/38585065/views/day-week-month-total-count.svg">
+</a>
