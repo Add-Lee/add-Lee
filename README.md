@@ -1,4 +1,9 @@
-## Hi there 👋
+<details>
+<summary></summary>
+<a href="https://u8views.com/github/Add-Lee">
+<img src="https://u8views.com/api/v1/github/profiles/38585065/views/day-week-month-total-count.svg">
+</a>
+</details>## Hi there 👋
 
 <!--
 **Add-Lee/add-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<details>
-<summary></summary>
-<a href="https://u8views.com/github/Add-Lee">
-<img src="https://u8views.com/api/v1/github/profiles/38585065/views/day-week-month-total-count.svg">
-</a>
-</details>
+
